@@ -2,7 +2,10 @@
 
 Hi! I'm Jesse Patching, a web developer in Calgary, Alberta 🇨🇦.
 
-- 📫 How to reach me:
-   - 🐘 <a rel="me" href="https://indieweb.social/@taeram">https://indieweb.social/@taeram</a> - Preferred
-   - 🐤 https://twitter.com/taeram
+- 📫 Social Media
+   - 🐘 [@taeram@indieweb.social](https://indieweb.social/@taeram)
+   - 🐤 [@taeram@twitter.com](https://twitter.com/taeram)
    
+- 🔗 Websites
+   - 🏠 [jesse.patching.ca](https://jesse.patching.ca)
+   - 🧑‍💼 [radpenguin.ca](https://radpenguin.ca)
